@@ -1,0 +1,4 @@
+
+*10-12-19:
+
++ technologies dominantes: data science, cloud computing
