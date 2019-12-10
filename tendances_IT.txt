@@ -1,6 +1,10 @@
 
 *10-12-19:
 
-+ technologies dominantes: data science, cloud computing
++ technologies dominantes: data science, cloud computing, devops
 
-+ framewoks web: les technologies JS
++ frameworks web: les technologies JS
+
++ apprentissages d'urgence:
+- virtualisation, cloud, devops
+- data science, decisionnel
